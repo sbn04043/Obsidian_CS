@@ -1,0 +1,48 @@
+![[Untitled 10.png|Untitled 10.png]]
+
+그림 출처: [https://www.geeksforgeeks.org/tree-data-structure/?ref=shm](https://www.geeksforgeeks.org/tree-data-structure/?ref=shm)
+
+  
+
+- 노드(Node)
+    
+    트리를 구성하는 요소들.
+    
+- 부모(Parent)
+    
+    특정 노드의 한 단계 상위에 있는 노드. 노드 D는 노드 I, J의 부모다.
+    
+- 자식(Child)
+    
+    특정 노드의 한 단계 하위에 있는 노드. 노드 I, J,는 노드 D의 자식이다.
+    
+- 루트(Root)
+    
+    가장 정상에 있는 노드. 부모를 가지고 있지 않다. 위의 트리에서 노드 A가 루트다.
+    
+- 조상(Ancestor)
+    
+    특정 노드의 상위에 있는 노드들. 노드 E의 조상은 노드 B, A다.
+    
+- 레벨(Level)
+- 루트로부터 거리를 나타낸 값이다. 루트(0 레벨)부터 시작한다.
+- 깊이(Depth)
+    
+    루트로부터의 거리를 나타낸다. 노드 D는 깊이가 2이다.
+    
+- 잎(Leaf)
+    
+    자식이 없는 노드들. 노드 I, J, K, F, G, H가 잎들이다
+    
+- 내부 노드(Internal Node)
+    
+    최소 하나 이상의 자식을 가진 노드들. 잎이 아니면 내부 노드다.
+    
+
+  
+
+[[이진 트리]]
+
+[[트리의 순회]]
+
+[[이진 탐색 트리]]

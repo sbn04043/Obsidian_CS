@@ -1,0 +1,9 @@
+toUpperCase(), toLowerCase()
+
+  
+
+  
+
+  
+
+toCharArray()

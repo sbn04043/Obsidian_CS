@@ -4,20 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3c7bbe8102fc94fe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ca4442bd9a3b4356",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "d3c1725aec76cd0b",
         "type": "tabs",
         "children": [
@@ -25,8 +11,12 @@
             "id": "a8b2a2ea6eb97023",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/2. 알고리즘/그래프/1. 다익스트라.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "cec441d902b26bb5",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -95,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/2. 알고리즘/그래프/1. 다익스트라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/2. 알고리즘/그래프/1. 다익스트라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/2. 알고리즘/그래프/1. 다익스트라.md"
+              }
             }
           }
         ]
@@ -144,6 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -154,10 +157,44 @@
   },
   "active": "1390c3ed38ee6fc3",
   "lastOpenFiles": [
+    "CS/2. 알고리즘/그래프/0. 그래프 용어.md",
+    "Pasted image 20240701195428.png",
+    "Pasted image 20240701195344.png",
+    "Pasted image 20240701195336.png",
+    "CS/2. 알고리즘/그래프/1. 다익스트라.md",
+    "CS/2. 알고리즘/그래프.md",
+    "CS/2. 알고리즘/그래프",
+    "CS/1. 자료구조/Set.md",
+    "CS/1. 자료구조/Map.md",
+    "CS/1. 자료구조/힙과 우선순위 큐.md",
+    "CS/1. 자료구조/스택(Stack).md",
+    "Pasted image 20240701190821.png",
+    "Pasted image 20240701190339.png",
+    "Pasted image 20240701190242.png",
+    "images/Pasted image 20240701183526.png",
+    "CS/1. 자료구조/힙(Heap).md",
+    "images/Pasted image 20240701183519.png",
+    "CS/5. 컴퓨터구조/2. 전자 회로의 조합 논리/2-0 전자 회로의 조합 논리.md",
+    "CS/5. 컴퓨터구조/2. 전자 회로의 조합 논리/2-2 간단한 전기 이론 가이드.md",
+    "CS/5. 컴퓨터구조/2. 전자 회로의 조합 논리/2-1 디지털 컴퓨터의 사례.md",
+    "CS/5. 컴퓨터구조/1. 컴퓨터 내부의 언어 체계/1-2 논리 연산.md",
+    "CS/5. 컴퓨터구조/1. 컴퓨터 내부의 언어 체계/1-1 비트.md",
+    "CS/1. 자료구조/문자열/0. 문자열.md",
+    "CS/1. 자료구조/문자열",
+    "CS/이론/01. 복사.md",
+    "CS/1. 자료구조/배열(Array)/0. 배열(Array).md",
+    "CS/1. 자료구조/자주 쓰는 메소드.md",
+    "CS/1. 자료구조/연결리스트(Linked List)/0. 연결리스트(Linked List).md",
+    "CS/1. 자료구조/트리(Tree)/4. 트리의 순회.md",
+    "CS/1. 자료구조/트리(Tree)/2. 이진 트리.md",
+    "CS/1. 자료구조/트리(Tree)/1. 트리(Tree).md",
+    "Welcome.md",
+    "무제 파일.canvas",
+    "NC 13 교육/스프링부트.md",
+    "NC 13 교육/NC 13 교육.md",
+    "CS/1. 자료구조/큐(Queue)/0. 큐(Queue).md",
+    "Tags",
     "Data_Structure",
-    "Data_Structure.md",
-    "Algorithm",
-    "create a link.md",
-    "Welcome.md"
+    "Algorithm"
   ]
 }

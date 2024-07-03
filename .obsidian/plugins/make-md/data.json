@@ -42,11 +42,17 @@
   "expandedSpaces": [
     "/",
     "//CS",
-    "//CS/CS/1. 자료구조",
     "//CS/CS/1. 자료구조/CS/1. 자료구조/문자열(String)",
     "//CS/CS/1. 자료구조/CS/1. 자료구조/큐(Queue)",
     "//CS/CS/1. 자료구조/CS/1. 자료구조/연결리스트(Linked List)",
-    "//NC 13 교육"
+    "//NC 13 교육/NC 13 교육/자바",
+    "//NC 13 교육",
+    "//NC 13 교육/NC 13 교육/데이터베이스/NC 13 교육/데이터베이스/테이블 만들기",
+    "//NC 13 교육/NC 13 교육/데이터베이스",
+    "//CS/CS/4. 네트워크",
+    "//CS/CS/5. 컴퓨터구조",
+    "//CS/CS/2. 알고리즘",
+    "//CS/CS/1. 자료구조"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

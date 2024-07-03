@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "02250ad772f7e4ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/1. 자료구조/힙과 우선순위 큐.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/2. 알고리즘/그래프/1. 다익스트라.md",
+                "file": "CS/1. 자료구조/힙과 우선순위 큐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/2. 알고리즘/그래프/1. 다익스트라.md",
+                "file": "CS/1. 자료구조/힙과 우선순위 큐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/2. 알고리즘/그래프/1. 다익스트라.md"
+                "file": "CS/1. 자료구조/힙과 우선순위 큐.md"
               }
             }
           }
@@ -155,14 +169,26 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1390c3ed38ee6fc3",
+  "active": "02250ad772f7e4ff",
   "lastOpenFiles": [
+    "CS/4. 네트워크/1. 컴퓨터 네트워크와 인터넷.md",
+    "CS/4. 네트워크/0. 네트워크.md",
+    "Pasted image 20240703185543.png",
+    "CS/4. 네트워크/4. 네트워크.md",
+    "CS/2. 알고리즘/그래프.md",
+    "NC 13 교육/CSS.md",
+    "CS/4. 네트워크",
+    "NC 13 교육/데이터베이스/네트워크.md",
+    "NC 13 교육/데이터베이스/쿼리.md",
+    "NC 13 교육/데이터베이스/테이블 만들기/테이블 만들기.md",
+    "NC 13 교육/데이터베이스/CRUD 예시.md",
+    "NC 13 교육/자바/자바.md",
+    "NC 13 교육/자바/시간-날짜 표현/시간-날짜 표현.md",
     "CS/2. 알고리즘/그래프/0. 그래프 용어.md",
     "Pasted image 20240701195428.png",
     "Pasted image 20240701195344.png",
     "Pasted image 20240701195336.png",
     "CS/2. 알고리즘/그래프/1. 다익스트라.md",
-    "CS/2. 알고리즘/그래프.md",
     "CS/2. 알고리즘/그래프",
     "CS/1. 자료구조/Set.md",
     "CS/1. 자료구조/Map.md",
@@ -182,17 +208,7 @@
     "CS/1. 자료구조/문자열/0. 문자열.md",
     "CS/1. 자료구조/문자열",
     "CS/이론/01. 복사.md",
-    "CS/1. 자료구조/배열(Array)/0. 배열(Array).md",
-    "CS/1. 자료구조/자주 쓰는 메소드.md",
-    "CS/1. 자료구조/연결리스트(Linked List)/0. 연결리스트(Linked List).md",
-    "CS/1. 자료구조/트리(Tree)/4. 트리의 순회.md",
-    "CS/1. 자료구조/트리(Tree)/2. 이진 트리.md",
-    "CS/1. 자료구조/트리(Tree)/1. 트리(Tree).md",
-    "Welcome.md",
     "무제 파일.canvas",
-    "NC 13 교육/스프링부트.md",
-    "NC 13 교육/NC 13 교육.md",
-    "CS/1. 자료구조/큐(Queue)/0. 큐(Queue).md",
     "Tags",
     "Data_Structure",
     "Algorithm"

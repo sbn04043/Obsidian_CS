@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/1. 자료구조/힙과 우선순위 큐.md",
+                "file": "CS/4. 네트워크/1. 컴퓨터 네트워크와 인터넷.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/1. 자료구조/힙과 우선순위 큐.md",
+                "file": "CS/4. 네트워크/1. 컴퓨터 네트워크와 인터넷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/1. 자료구조/힙과 우선순위 큐.md",
+                "file": "CS/4. 네트워크/1. 컴퓨터 네트워크와 인터넷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/1. 자료구조/힙과 우선순위 큐.md"
+                "file": "CS/4. 네트워크/1. 컴퓨터 네트워크와 인터넷.md"
               }
             }
           }
@@ -171,8 +171,12 @@
   },
   "active": "02250ad772f7e4ff",
   "lastOpenFiles": [
-    "CS/4. 네트워크/1. 컴퓨터 네트워크와 인터넷.md",
+    "Pasted image 20240708192925.png",
+    "Pasted image 20240708191901.png",
+    "Pasted image 20240708191418.png",
     "CS/4. 네트워크/0. 네트워크.md",
+    "CS/4. 네트워크/1. 컴퓨터 네트워크와 인터넷.md",
+    "CS/1. 자료구조/힙과 우선순위 큐.md",
     "Pasted image 20240703185543.png",
     "CS/4. 네트워크/4. 네트워크.md",
     "CS/2. 알고리즘/그래프.md",
@@ -192,14 +196,12 @@
     "CS/2. 알고리즘/그래프",
     "CS/1. 자료구조/Set.md",
     "CS/1. 자료구조/Map.md",
-    "CS/1. 자료구조/힙과 우선순위 큐.md",
     "CS/1. 자료구조/스택(Stack).md",
     "Pasted image 20240701190821.png",
     "Pasted image 20240701190339.png",
     "Pasted image 20240701190242.png",
     "images/Pasted image 20240701183526.png",
     "CS/1. 자료구조/힙(Heap).md",
-    "images/Pasted image 20240701183519.png",
     "CS/5. 컴퓨터구조/2. 전자 회로의 조합 논리/2-0 전자 회로의 조합 논리.md",
     "CS/5. 컴퓨터구조/2. 전자 회로의 조합 논리/2-2 간단한 전기 이론 가이드.md",
     "CS/5. 컴퓨터구조/2. 전자 회로의 조합 논리/2-1 디지털 컴퓨터의 사례.md",
